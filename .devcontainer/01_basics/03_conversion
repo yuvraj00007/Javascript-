@@ -20,3 +20,6 @@ console.log(boolnum)
 
 //1 ko true , 0 ko false
 //"" ko false , "yuvraj" ko true
+
+console.log(2+3+"3")    //in dono me hi jo phle likh gya usi ka datatype pure k liye chlega
+console.log("2"+3+4)
