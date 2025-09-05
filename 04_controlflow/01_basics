@@ -1,0 +1,8 @@
+if (2=="2"){                      // == ne sirf vale compare kri datatype nhi
+    console.log("executed")
+}
+
+if (2==="2"){                      // === ne sirf vale hi nhi balki dataype bhi compare kra
+    console.log("executed")
+}
+
